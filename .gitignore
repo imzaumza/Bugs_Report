@@ -1,0 +1,12 @@
+.streamlit
+.streamlit/
+.envrc
+.direnv/
+.~
+~/
+venv/
+.venv/
+env/
+.env/
+.lib/
+lib/

@@ -1,2 +1,4 @@
 https://docs.streamlit.io/knowledge-base/tutorials/databases/private-gsheet
 
+https://towardsdatascience.com/turn-excel-into-a-beautiful-web-application-using-streamlit-7a18516ca01a
+

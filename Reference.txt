@@ -4,4 +4,8 @@ https://docs.streamlit.io/knowledge-base/tutorials/databases/private-gsheets
 
 This guide explains how to securely access a private Google Sheet from Streamlit Cloud. It uses the gsheetsdb library and Streamlit's secrets management
 
+<<<<<<< HEAD
 
+=======
+If you are fine with enabling link sharing for your Google Sheet (i.e. everyone with the link can view it), the guide Connect Streamlit to a public Google Sheet shows a simpler method of doing this. 
+>>>>>>> ad6257a3f989e42558ca417a0aa8eb0a402d65b2
